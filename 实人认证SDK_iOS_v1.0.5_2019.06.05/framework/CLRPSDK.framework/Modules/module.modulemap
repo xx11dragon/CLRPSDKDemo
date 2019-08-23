@@ -1,0 +1,6 @@
+framework module CLRPSDK {
+  umbrella header "CLRPSDK.h"
+
+  export *
+  module * { export * }
+}
